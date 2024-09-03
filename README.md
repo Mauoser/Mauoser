@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://media2.giphy.com/media/f8h8oEShbB1YuagU6i/giphy.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/164544390?v=4" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width = 250px></picture>
 
 <br>
 
