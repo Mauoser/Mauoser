@@ -17,7 +17,7 @@
 - A passionate Full-Stack Developer
 - Currently learning Web Development
 - Personal website [link](https://mauoser.github.io/profile/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/)
+- I’m currently open to work, here is [my resume](https://read.cv/)
 
 <br><br>
 
