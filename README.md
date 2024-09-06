@@ -16,8 +16,8 @@
 
 - A passionate Full-Stack Developer
 - Currently learning Web Development
-- Personal website [link](https://mauoser.github.io/profile/)
-- I’m currently open to work, here is [my resume](https://read.cv/)
+- Personal website [link](https://mauoser.github.io/)
+- I’m currently open to work, here is [my Linkedin](https://www.linkedin.com/in/zenrei/)
 
 <br><br>
 
