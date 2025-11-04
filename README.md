@@ -116,7 +116,7 @@
 <br>
 
 <li>
-<a href="https://www.instagram.com/rei_zeni" target="_blank">
+<a href="https://www.instagram.com/rei.zeni" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  @mauoser-%2300acee.svg?color=c13584&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
