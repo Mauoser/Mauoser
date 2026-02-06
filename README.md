@@ -15,7 +15,7 @@
 <br>
 
 - A passionate Full-Stack Developer
-- Currently learning Web Development
+- Currently studying information systems
 - Personal website <a href="https://mauoser.github.io/" target="_blank">link</a>
 - I’m currently open to work, here is <a href="https://www.linkedin.com/in/zenrei/" target="_blank">my LinkedIn</a>
 
