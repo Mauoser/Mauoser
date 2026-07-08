@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lei 👋</h1>
 
 <p align="center">
-  Founder of <a href="https://neetter.com"><b>Neetter</b></a> · full-stack engineer · M.S. Information Systems @ Northeastern
+  Founder of <a href="https://neetter.com"><b>Neetter</b></a> · Full-Stack Engineer · M.S. Information Systems @ Northeastern
 </p>
 
 <p align="center">
