@@ -67,19 +67,6 @@ A social network for gamers — think Twitter meets Reddit, but for games. You f
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 📊 GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mauoser&show_icons=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mauoser&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauoser&layout=compact&theme=github_dark_dimmed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauoser&layout=compact&hide_border=true" alt="Top languages" height="165">
-  </picture>
-</p>
-
 ---
 
 <p align="center">
