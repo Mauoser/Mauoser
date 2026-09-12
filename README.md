@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lei 👋</h1>
 
 <p align="center">
-  Founder of <a href="https://neetter.com"><b>Neetter</b></a> · Full-Stack Engineer · M.S. Information Systems @ Northeastern
+  Founder of <a href="https://neetter.com"><b>Neetter</b></a> · Software Engineer · M.S. Information Systems @ Northeastern
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## 🎮 Now building: [Neetter](https://neetter.com)
 
-A social network for gamers — think Twitter meets Reddit, but for games. You follow people *and* the games you play: every game has its own page with a feed, news, and community reviews, plus Letterboxd-style game logging, real-time messaging, LFG posts, and a daily game-guessing puzzle.
+**The Social Home for Gamers.** Neetter is a social network for gamers where you can follow games and people, join communities, share reviews, track what you play, and discover what to play next. Every game has its own page with a feed, news, and community reviews, plus game logging, real-time messaging, LFG posts, and a daily game-guessing puzzle.
 
-**Live on the web** at [neetter.com](https://neetter.com), with a companion **iOS app in TestFlight**. Designed, built, and operated end-to-end: Next.js web app, React Native (Expo) iOS app, and a Node.js/Express + PostgreSQL API with Redis and Socket.io — deployed across Vercel, Fly.io, and Cloudflare R2.
+**Live on the web** at [neetter.com](https://neetter.com), with **iOS and Android apps in beta testing**. Designed, built, and operated end-to-end: Next.js web app, React Native (Expo) mobile apps, and a Node.js/Express + PostgreSQL API with Redis and Socket.io — deployed across Vercel, Fly.io, and Cloudflare R2.
 
 <p align="center">
   <a href="https://neetter.com">
@@ -28,7 +28,7 @@ A social network for gamers — think Twitter meets Reddit, but for games. You f
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| **[Neetter](https://neetter.com)** | Social network for gamers — web live, iOS in TestFlight | Next.js, React Native (Expo), Express, PostgreSQL/Prisma, Redis, Socket.io, Stripe |
+| **[Neetter](https://neetter.com)** | The Social Home for Gamers — follow games and people, join communities, share reviews, and track what you play | Next.js, React Native (Expo), Express, PostgreSQL/Prisma, Redis, Socket.io, Stripe |
 | **[Roomalize](https://roomalize.vercel.app)** | AI architectural visualization — 2D floor plans to photorealistic 3D renders | React, Vite, Tailwind, Puter.js, Gemini |
 | **[KanjAI](https://kanjai-frontend.onrender.com)** | Japanese kanji spaced-repetition with AI mnemonics and adaptive tutoring | React, Express, PostgreSQL, Gemini |
 | **[Intervy](https://intervy.onrender.com)** | AI mock interviews with dynamic questions and real-time feedback | React, TypeScript, Clerk, Firebase, Gemini |
