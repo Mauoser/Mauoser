@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://mauoser.github.io"><img src="https://img.shields.io/badge/portfolio-mauoser.github.io-7C5CFF?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/zenrei/"><img src="https://img.shields.io/badge/linkedin-zenrei-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:zhang.l5@northeastern.edu"><img src="https://img.shields.io/badge/email-zenreijp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:zhang.l5@northeastern.edu"><img src="https://img.shields.io/badge/email-zhang.l5@northeastern.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
