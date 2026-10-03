@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Lei 👋</h1>
+<h1 align="center">Hey, I'm Rei 👋</h1>
 
 <p align="center">
   Founder of <a href="https://neetter.com"><b>Neetter</b></a> · Software Engineer · M.S. Information Systems @ Northeastern
