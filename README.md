@@ -30,8 +30,6 @@
 | --- | --- | --- |
 | **[Neetter](https://neetter.com)** | The Social Home for Gamers — follow games and people, join communities, share reviews, and track what you play | Next.js, React Native (Expo), Express, PostgreSQL/Prisma, Redis, Socket.io, Stripe |
 | **[Roomalize](https://roomalize.vercel.app)** | AI architectural visualization — 2D floor plans to photorealistic 3D renders | React, Vite, Tailwind, Puter.js, Gemini |
-| **[KanjAI](https://kanjai-frontend.onrender.com)** | Japanese kanji spaced-repetition with AI mnemonics and adaptive tutoring | React, Express, PostgreSQL, Gemini |
-| **[Intervy](https://intervy.onrender.com)** | AI mock interviews with dynamic questions and real-time feedback | React, TypeScript, Clerk, Firebase, Gemini |
 
 ## 🧰 Stack
 
